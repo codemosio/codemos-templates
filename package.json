@@ -2,7 +2,7 @@
   "name": "@codemos/templates",
   "version": "0.0.1",
   "description": "Templates samples for Codemos courses",
-  "main": "",
+  "main": "src/index.js",
   "scripts": {
     "test": "jest"
   },
