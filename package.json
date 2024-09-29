@@ -1,5 +1,5 @@
 {
-  "name": "@codemos/templates",
+  "name": "@codemosio/templates",
   "version": "0.0.1",
   "description": "Templates samples for Codemos courses",
   "main": "src/index.js",
