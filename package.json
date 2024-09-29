@@ -1,0 +1,27 @@
+{
+  "name": "@codemos/templates",
+  "version": "0.0.1",
+  "description": "Templates samples for Codemos courses",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "codemos",
+    "codemos cli",
+    "lms",
+    "course",
+    "markdown",
+    "education",
+    "scaffolding",
+    "boilerplate",
+    "generator",
+    "learning",
+    "elearning"
+  ],
+  "author": "Codemos Authors",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
